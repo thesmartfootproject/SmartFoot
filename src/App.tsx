@@ -4,7 +4,7 @@ import Navigation from './components/Navigation';
 import Footer from './components/Footer';
 import Landing from './pages/Landing';
 import Dashboard from './pages/Dashboard';
-import History from './pages/History';
+import History from './pages/history';
 import Results from './pages/Results';
 
 function App() {
