@@ -10,7 +10,16 @@ Foot deformities, whether congenital or acquired, can significantly impact gait,
 - **Create an annotated image database** to train and validate AI models.
 - **Provide a quick, accessible, and reliable diagnostic tool** to aid clinicians in early identification of foot deformities.
 
-## Features
+
+##Screenshorts
+![Screenshot 2025-03-21 155017](https://github.com/user-attachments/assets/85e40d16-6771-45bc-9ccc-99afdbdf1b87)
+![Screenshot 2025-03-21 145456](https://github.com/user-attachments/assets/b501181e-6b71-4118-82d1-b029333e1100)
+![Screenshot 2025-03-21 154810](https://github.com/user-attachments/assets/eb4cc970-fcf2-4703-bb5b-d94175465f68)
+![Screenshot 2025-03-21 145653](https://github.com/user-attachments/assets/3898d11e-2177-4a08-825a-142f10628436)
+
+
+## Features!
+
 ### AI-Powered Diagnosis
 Leverages state-of-the-art machine learning techniques to identify and classify foot deformities from images.
 
